@@ -1,0 +1,15 @@
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\BA.deps.json
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\BA.dll
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\ref\BA.dll
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\BA.pdb
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.csproj.AssemblyReference.cache
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.AssemblyInfoInputs.cache
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.AssemblyInfo.cs
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.csproj.CoreCompileInputs.cache
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.dll
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\ref\BA.dll
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.pdb
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\DAL.dll
+D:\dotNetProject\DoctorAppointmentSytem\BA\bin\Debug\net5.0\DAL.pdb
+D:\dotNetProject\DoctorAppointmentSytem\BA\obj\Debug\net5.0\BA.csproj.CopyComplete

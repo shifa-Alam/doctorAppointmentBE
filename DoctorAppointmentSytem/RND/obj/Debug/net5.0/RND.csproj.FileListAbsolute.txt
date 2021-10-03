@@ -1,0 +1,15 @@
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\RND.deps.json
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\RND.runtimeconfig.json
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\RND.runtimeconfig.dev.json
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\RND.dll
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\ref\RND.dll
+D:\dotNetProject\DoctorAppointmentSytem\RND\bin\Debug\net5.0\RND.pdb
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.AssemblyInfoInputs.cache
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.AssemblyInfo.cs
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.csproj.CoreCompileInputs.cache
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.dll
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\ref\RND.dll
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.pdb
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.genruntimeconfig.cache
+D:\dotNetProject\DoctorAppointmentSytem\RND\obj\Debug\net5.0\RND.csproj.AssemblyReference.cache
